@@ -1,5 +1,12 @@
 ### Hi there 👋 I'm Piyush Mohanty
 
+I'm born in **Cuttack, India** and currently working in a FinTech Company as a  **Specialist Software Engineer** for their **Research & Development Team** and have a **decade** worth of experience in **Building Highly scalable Enterprise Grade Applications from Scratch using Java J2EE/Spring primarily** and a lot of secondary skills gained through my curosity and hunger for technology ranging from development to deployment
+
+> 💬 **Well Too much of Techie Bio ? Right ?**
+
+-⚡**I'm Married to the love of my life and she happens to be a Backend Java Developer too Jokes** ⚡
+
+
 <!--
 **askmohanty/askmohanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
