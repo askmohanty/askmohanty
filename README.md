@@ -7,6 +7,10 @@ I'm born in **Cuttack, India** and currently working in a FinTech Company as a  
 -⚡**I'm Married to the love of my life and she happens to be a Backend Java Developer too Jokes** ⚡
 
 
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,java,py,flask,spring,graphql,hibernate,mongodb,mysql,dynamodb,cassandra,postgres,redis,sqlite,nginx,kubernetes,jenkins,ansible,git,github,gitlab,maven,bash,cloudflare,js,jquery,bootstrap,wordpress,materialui,html,idea,visualstudio,vim,ps,figma&theme=light)](https://skillicons.dev)
+
 <!--
 **askmohanty/askmohanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
