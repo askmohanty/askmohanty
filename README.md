@@ -5,7 +5,8 @@ I'm born in **Cuttack, India** and currently working in a FinTech Company as a  
 > 💬 **Well Too much of Techie Bio ? Right ?**
 
 - ⚡**I'm Married to the love of my life and she happens to be a Backend Java Developer too Jokes** ⚡
-- ⚡**Father for a Cute Golden Retriver⚡**
+- ⚡**Traveller by Passion and a Mountain Lover ⚡**
+- ⚡**Road Trips Above all ⚡**
 
 
 
