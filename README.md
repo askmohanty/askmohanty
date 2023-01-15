@@ -4,10 +4,12 @@ I'm born in **Cuttack, India** and currently working in a FinTech Company as a  
 
 > 💬 **Well Too much of Techie Bio ? Right ?**
 
--⚡**I'm Married to the love of my life and she happens to be a Backend Java Developer too Jokes** ⚡
+- ⚡**I'm Married to the love of my life and she happens to be a Backend Java Developer too Jokes** ⚡
+- ⚡**Father for a Cute Golden Retriver⚡**
 
 
-### Skills
+
+### Tech Skills
 
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,java,py,flask,spring,graphql,hibernate,mongodb,mysql,dynamodb,cassandra,postgres,redis,sqlite,nginx,kubernetes,jenkins,ansible,git,github,gitlab,maven,bash,cloudflare,js,jquery,bootstrap,wordpress,materialui,html,idea,visualstudio,vim,ps,figma&theme=light)](https://skillicons.dev)
 
