@@ -9,13 +9,17 @@ I'm born in **Cuttack, India** and currently working in a FinTech Company as a  
 - ⚡**Road Trips Above all ⚡**
 
 
-> All My SOcial Media Handles
+> All My Social Media Handles
 https://www.linktr.ee/askmohanty
+
+
 
 
 ### Tech Skills
 
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,java,py,flask,spring,graphql,hibernate,mongodb,mysql,dynamodb,cassandra,postgres,redis,sqlite,nginx,kubernetes,jenkins,ansible,git,github,gitlab,maven,bash,cloudflare,js,jquery,bootstrap,wordpress,materialui,html,idea,visualstudio,vim,ps,figma&theme=light)](https://skillicons.dev)
+
+>Email: askmohanty@aol.com
 
 <!--
 **askmohanty/askmohanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
