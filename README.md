@@ -9,7 +9,7 @@ I'm born in **Cuttack, India** and currently working in a FinTech Company as a  
 - ⚡**Road Trips Above all ⚡**
 
 
-> ✨ View Social Others Media Handles
+> ✨ View Others Social Media Handles
 https://www.linktr.ee/askmohanty ✨
 
 
